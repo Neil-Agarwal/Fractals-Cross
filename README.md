@@ -4,4 +4,4 @@ Using recursion, I built a fractal out of crosses. After creating it, I found ou
 
 A picture of the fractal on its 12th recursion:
 
-https://cloud.githubusercontent.com/assets/22432455/18818736/7a9fca1a-834f-11e6-92b6-f84dde31ddd3.png
+![image](https://cloud.githubusercontent.com/assets/22432455/18818736/7a9fca1a-834f-11e6-92b6-f84dde31ddd3.png)
